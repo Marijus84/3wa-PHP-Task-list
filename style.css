@@ -1,0 +1,42 @@
+h2 {
+
+  font-size: 4em;
+
+
+}
+
+.finished {
+  text-decoration: line-through;
+}
+
+html>body {
+
+background-color: #cceeff;
+
+
+
+}
+
+li.list-group-item.finished:hover{
+  text-decoration: line-through;
+}
+
+
+
+  li.list-group-item {
+    color: white;
+    background-color: #66ccff
+  }
+
+img {
+  max-width: 100%;
+}
+
+li.list-group-item.active {
+  background-color: #0099e6
+}
+
+.img {
+  
+  width: 100%;
+}
